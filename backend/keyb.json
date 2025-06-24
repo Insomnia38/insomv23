@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "insomnia-video-editor-prod",
+  "private_key_id": "b416c9227d82b78850f6716da558026a8c7eaf41",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCxgP91kS0pFTae\necLqTwG3d3A6awrcrr/59McgFefwnTQ0LMRWfoXcgurK2DmpZBwggoFZI0Lglm9c\ncCK1zLJKh0PRgJJE7WhNwfDfcErP+N/HUEoL0W4C1SaFo7+AECGcNRJOrVjWgJyx\nf3APGdUpwmnK22lBgl0186+Y3SJQOlYMzOPoUURi4uhTNaAmX84y1+FsT7BCgYLv\ng8rzSiHu1DHojdM56hS9wcB68D2v4CWQoVHLJqeQRnGX43RaWLIu71BxYJeLLQNr\nk2Y1yR6DHevfSA7Ie2dAN2ZOca3GoqQ+Bi4VggFvn/Kt+c8pvDWuT+nX3fqJZPIF\neF8S4fF5AgMBAAECggEAGd0qBqojYnEXhvqcTs05pXoJ0vlLQ+H9UcvmQo6ZP+jS\nynzGFF8Ah6Or1+gEaYzkwaKX0Qffnsn3arNhhgv64/vXA0KGDZ+/gFUEvAn+B1UZ\nhk6fUMmGC3OeLAAyzyjf54We0p1U7IHLqIa2f/zLn/dsDYWa+Kio3EuoXSXGR4TP\nk46jO5HbuiiQyXQteBjENbe2axByUTNldk8Cbal58XyYEb8cMCrPHtlcX8bMetmj\nM454sz2tZo1ROujC7R2sjK1he855q/9avzHDKBTt7kgMNP2qyDIFdQHHFiWnL1EM\nxXOuf/2dkjEhNex7CvQoo7j/Jp2KgZISBaxaieXy4QKBgQDlyorAaNWY8LLqu7Qz\ndx5FFUWLC4AQ3WXle1WmPl1dJvZdnD/oECIif43Q8k9k/DWXJ8MJPmoi3K781YQV\nXuso7WN4XX85GCv1W58G1gwzJZvres9gCOAEa27mWsLtnR6cxTZGeKKhf8xm0ELA\nxZ75VCw9mLEcRgEGdGRc0/bMcwKBgQDFv8S1fVhNQnYKsQlspDj8CbxVTYoideW/\npqyWLTTpO1wJPnUmTbHyabn2JtGPGJY7/Luj8AF8y8DajX09XjVx0PjFLEJNp5eS\nWtM13Huh3E+bYyJm9bzn01+7JXRYOk8pQS6XqWpp4P3ZBwaYzsvbasCVmGj1vDnc\nNB2C1CxbYwKBgQCjSoG85wJaMzlA+u+73rrg5pPLkfmIgnvFThZ4EzsvVd+ed8kl\n9Ej9cNzrDTWEEoFWj4fWCsdLTL0AqA27Tf8Xz1FvGCmu/dFHAruIFRUIR4J8HII+\nwS/HlDxzby2zwoIdbzr5awJOd01eBkJZUFV+4eSqRNYevFRALPegy3NGpwKBgQCk\nwRNYymfpZrgGTF23wFMh2dKpl4LBF00lke406NEuiKAzq2/bS9w4RdIDvW/XMvro\nW7bR7UKwAOparIttt7H7c8nwLOHI5RqpezaBp4Lx5iYFJmEhOxf6ZedaeugmId6W\nVpJFFYdtU2DrkqjyY0kBND3j5Sl9oybpyhnUSIX0VQKBgH/AelTmhapG7GNF6dSj\nmOkmOZlCCp0CEYGOJC6huCrVS1R5yzQ1+tA3fR5kgBv6ADiDITjQcVA+nKNH4W00\nAvZDisYhhroLEhv4k/H/mnuUIoayJ5i4AzwnqooL45Ki1JVIFzZdjeU8vUUc+tRS\nK4ZU18WKb3OCLPBD/Oh2id+x\n-----END PRIVATE KEY-----\n",
+  "client_email": "insomnia-video-service@insomnia-video-editor-prod.iam.gserviceaccount.com",
+  "client_id": "113785427395983244780",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/insomnia-video-service%40insomnia-video-editor-prod.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
